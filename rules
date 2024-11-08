@@ -1,6 +1,14 @@
 [
   {
     "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      ".com"
+    ]
+  },
+  {
+    "port": "",
     "inboundTag": [
       "socks",
       "http",
@@ -10,11 +18,29 @@
     "outboundTag": "proxy",
     "ip": [],
     "domain": [
-      "spotify.com"
+      "ytimg.com"
     ],
     "protocol": [
-      "tls",
-      "http"
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "ggpht.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
     ]
   },
   {
@@ -33,6 +59,24 @@
     "protocol": [
       "http",
       "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "spotify.com"
+    ],
+    "protocol": [
+      "tls",
+      "http"
     ]
   },
   {
@@ -399,14 +443,6 @@
     "ip": [],
     "domain": [
       ".org"
-    ]
-  },
-  {
-    "port": "",
-    "outboundTag": "direct",
-    "ip": [],
-    "domain": [
-      ".com"
     ]
   },
   {
