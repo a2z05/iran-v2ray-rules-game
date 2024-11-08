@@ -1,0 +1,436 @@
+[
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "spotify.com"
+    ],
+    "protocol": [
+      "tls",
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "googlevideo.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "discord-attachments-uploads-prd.storage.googleapis.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "socks2",
+      "http",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "www.reddit.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "pinimg.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "i.pinimg.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "discordapp.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "discordapp.net"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "gateway.discord.gg"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "discord.gg"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "youtube.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "web.telegram.org"
+    ],
+    "protocol": [
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "epicgames.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "discord.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "status.discord.com"
+    ],
+    "protocol": [
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "discord.com:443"
+    ],
+    "protocol": [
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "media.discordapp.net:443"
+    ],
+    "protocol": [
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "http2",
+      "socks2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "web.telegram.org"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "store.epicgames.com:443"
+    ],
+    "protocol": [
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "http"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "ticketsbot.net:443"
+    ],
+    "protocol": [
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "web.whatsapp.com:443"
+    ],
+    "protocol": [
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "http",
+      "socks"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "proxyscrape.com:443"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "http"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "i.pinimg.com:443"
+    ],
+    "protocol": [
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "cicada.tgmc.ir"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "cicada.tgmc.ir"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      ".ir"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      ".net"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      ".org"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      ".com"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      ".online"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "https://hamyar.in/"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      ".gov"
+    ]
+  }
+]
