@@ -1,6 +1,6 @@
 # iran-v2ray-rules-
 اینا برای اینه که موقع گیم وی تو ری بزنید و پینگتون بد نشه
-لینک ساب رولز "https://raw.githubusercontent.com/artanhaker05/iran-v2ray-rules-/refs/heads/main/rules"
+لینک ساب رولز <https://raw.githubusercontent.com/a2z05/iran-v2ray-rules-/refs/heads/main/rules>
 
 
 ![image](https://github.com/user-attachments/assets/17450c4e-ee8e-4473-9b8b-e3342e58900f) settings
