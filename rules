@@ -1,10 +1,56 @@
 [
   {
     "port": "",
-    "outboundTag": "direct",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
     "ip": [],
     "domain": [
-      ".com"
+      "tenor.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "googleapis.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "gvt1.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
     ]
   },
   {
@@ -443,6 +489,14 @@
     "ip": [],
     "domain": [
       ".org"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      ".com"
     ]
   },
   {
