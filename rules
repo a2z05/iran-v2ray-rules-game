@@ -10,11 +10,47 @@
     "outboundTag": "proxy",
     "ip": [],
     "domain": [
-      "gemini.google.com"
+      "www.behance.net"
     ],
     "protocol": [
       "http",
       "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "http2",
+      "socks2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "gvt1.com"
+    ],
+    "protocol": [
+      "tls",
+      "http"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "http2",
+      "socks2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "staticdelivery.nexusmods.com"
+    ],
+    "protocol": [
+      "tls",
+      "http"
     ]
   },
   {
@@ -65,6 +101,24 @@
     "ip": [],
     "domain": [
       "fandom.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "gemini.google.com"
     ],
     "protocol": [
       "http",
