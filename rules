@@ -10,7 +10,7 @@
     "outboundTag": "proxy",
     "ip": [],
     "domain": [
-      "www.behance.net"
+      "nvidia.com"
     ],
     "protocol": [
       "http",
@@ -76,24 +76,6 @@
     "inboundTag": [
       "socks",
       "http",
-      "socks2",
-      "http2"
-    ],
-    "outboundTag": "proxy",
-    "ip": [],
-    "domain": [
-      "nvidia.com"
-    ],
-    "protocol": [
-      "http",
-      "tls"
-    ]
-  },
-  {
-    "port": "",
-    "inboundTag": [
-      "socks",
-      "http",
       "http2",
       "socks2"
     ],
@@ -105,6 +87,24 @@
     "protocol": [
       "tls",
       "http"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "www.behance.net"
+    ],
+    "protocol": [
+      "http",
+      "tls"
     ]
   },
   {
