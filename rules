@@ -10,7 +10,61 @@
     "outboundTag": "proxy",
     "ip": [],
     "domain": [
-      "www.freepik.com"
+      "www.behance.net"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "http2",
+      "socks2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      ".tv"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "www.pinterest.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "http",
+      "socks",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "www.google-analytics.com"
     ],
     "protocol": [
       "http",
@@ -58,24 +112,6 @@
     "inboundTag": [
       "socks",
       "http",
-      "socks2",
-      "http2"
-    ],
-    "outboundTag": "proxy",
-    "ip": [],
-    "domain": [
-      "www.behance.net"
-    ],
-    "protocol": [
-      "http",
-      "tls"
-    ]
-  },
-  {
-    "port": "",
-    "inboundTag": [
-      "socks",
-      "http",
       "http2",
       "socks2"
     ],
@@ -105,6 +141,24 @@
     "protocol": [
       "tls",
       "http"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "www.freepik.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
     ]
   },
   {
@@ -665,6 +719,32 @@
     "ip": [],
     "domain": [
       ".gov"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "web.bale.ai"
+    ]
+  },
+  {
+    "port": "",
+    "inboundTag": [
+      "socks",
+      "http",
+      "socks2",
+      "http2"
+    ],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "www.filimo.com"
+    ],
+    "protocol": [
+      "http",
+      "tls"
     ]
   }
 ]
